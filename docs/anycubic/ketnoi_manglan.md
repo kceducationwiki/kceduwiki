@@ -16,7 +16,7 @@ Truy cập trang chủ Anycubic:
 
 Hoặc vào trực tiếp trang phần mềm:
 
-🔗[https://www.anycubic.com/pages/software-app](https://www.anycubic.com/slicerNextDownload)
+🔗[https://www.anycubic.com/slicerNextDownload](https://www.anycubic.com/slicerNextDownload)
 
 ---
 
